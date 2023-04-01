@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
+bin/*
+pyvenv.cfg
 .vscode/
 .venv3?/
 *.sublime-project
